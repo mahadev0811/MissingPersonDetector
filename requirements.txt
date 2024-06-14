@@ -1,0 +1,6 @@
+deepface
+tf-keras
+dlib
+pywin32
+twilio
+tkcalendar

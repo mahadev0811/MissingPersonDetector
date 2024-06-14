@@ -1,0 +1,8 @@
+{
+    "twilio":{
+        "sid": "ACb3b3f4b3b3b3b3b3b3b3b3b3b3b3b3b3",
+        "token": "1234567890abcdef1234567890abcdef",
+        "from_": "+1234567890"
+        
+    }
+}
