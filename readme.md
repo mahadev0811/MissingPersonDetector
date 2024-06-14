@@ -50,20 +50,20 @@ We welcome contributions to improve this system. Feel free to fork the repositor
 For major changes, please open an issue first to discuss what you would like to change.
 ## Screenshots
 
-A screenshot showcasing the queue of missing persons awaiting verification.
+- A screenshot showcasing the queue of missing persons awaiting verification.
 ![Pending Verification Queue](screenshots/pending_verification.png)
 
-A screenshot of the interface for registering a new missing person in the database.
+- A screenshot of the interface for registering a new missing person in the database.
 ![Register New Missing Person](screenshots/register_new.png)
 
-A screenshot of the verification window where potential matches anf thier info are displayed for confirmation.
+- A screenshot of the verification window where potential matches anf thier info are displayed for confirmation.
 ![Verification Window](screenshots/verification_window.png)
 
-A screenshot depicting a verified missing person identification on main screen.
+- A screenshot depicting a verified missing person identification on main screen.
 ![Verified Missing Person](screenshots/verified.png)
 
-A mockup SMS notification sent to the complainant through Twilio upon a verified match.
-![Twilio SMS Notification](screenshots/twilio_sms.png)
+- A mockup SMS notification sent to the complainant through Twilio upon a verified match.
+![Twilio SMS Notification](screenshots/twilio_sms.jpg)
 
 
 ## License
